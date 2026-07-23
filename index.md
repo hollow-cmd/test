@@ -3,8 +3,6 @@ title: test
 layout: base
 ---
 
-{% include header.html %}
-
 # test page
 
 this is a test
@@ -13,4 +11,3 @@ this is a test
 
 *this is an edit*
 
-{% include footer.html %}
