@@ -1,3 +1,8 @@
+---
+title: test
+layout: base.html
+---
+
 # test page
 
 this is a test
