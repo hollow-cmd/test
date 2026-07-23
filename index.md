@@ -12,4 +12,4 @@ this is a test
 
 *this is an edit*
 
-{% include 'post.html'}
+{% include 'post.html' %}
