@@ -2,7 +2,7 @@
 title: test
 ---
 
-{% include pre.html %}
+{% include header.html %}
 
 # test page
 
@@ -12,4 +12,4 @@ this is a test
 
 *this is an edit*
 
-{% include post.html %}
+{% include footer.html %}
