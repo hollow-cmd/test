@@ -1,5 +1,6 @@
 ---
 title: test
+layout: base.html
 ---
 
 {% include header.html %}
@@ -11,4 +12,5 @@ this is a test
 <a href="/">this is a link</a>
 
 *this is an edit*
+
 {% include footer.html %}
