@@ -1,4 +1,4 @@
-- name: Eleventy generator action
+  name: Eleventy generator action
   # You may pin to the exact commit or the version.
   # uses: maschmann/eleventy-build-action@b26bf76e8e0d693b1024c80de3f8cd4c247011bd
   uses: maschmann/eleventy-build-action@v1.0.5
