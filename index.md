@@ -1,6 +1,6 @@
 ---
 title: test
-layout: base.html
+layout: base
 ---
 
 {% include header.html %}
